@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ main.cpp -std=c++17 -DSECOND && ./a.exe < b.in
+g++ -std=c++17 main.cpp -DSECOND && ./a.exe < b.in
