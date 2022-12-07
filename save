@@ -1,0 +1,8 @@
+#!/bin/bash
+mkdir archive/$1
+mv a.in archive/$1
+mv b.in archive/$1
+mv main.cpp archive/$1
+touch a.in
+touch b.in
+cp sample.cpp main.cpp
