@@ -486,6 +486,8 @@ void solve2_faster(int& best,
       if (node != -1) {
         over_score += values[node] * (t--);
       }
+      if (t <= 0)
+        break;
     }
     if (over_score < best)
       return;
