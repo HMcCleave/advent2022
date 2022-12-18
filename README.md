@@ -1,6 +1,7 @@
 ```
 	  --------Part 1---------   --------Part 2---------
 Day       Time    Rank  Score       Time    Rank  Score
+ 18   00:28:23    3082      0   01:11:58    2329      0 -- started 20 minutes late :'( would have cracked the top 500 again probably (only part 1)
  17   01:28:55    2274      0   02:56:46    1811      0
  16   20:47:53   13496      0   21:19:58    8681      0
  15   00:25:04    1031      0   01:35:35    2544      0
